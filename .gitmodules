@@ -1,0 +1,9 @@
+[submodule "Automated-Data-Minin-System"]
+	path = Automated-Data-Minin-System
+	url = https://github.com/Al3x4ndru1/Automated-Data-Minin-System.git
+[submodule "Middelware"]
+	path = Middelware
+	url = https://github.com/Al3x4ndru1/Middelware.git
+[submodule "UI-React"]
+	path = UI-React
+	url = https://github.com/Al3x4ndru1/UI-React.git
