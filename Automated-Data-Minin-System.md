@@ -6,7 +6,7 @@
 
 This project is using Spring Boot 3.0 and Java 20.
 
-<center><figure><img src="figs/HashMap_Logical_Structure.png" alt="HashMap_Logical_Structure"><figcaption>HashMap Logical Structure</figcaption></figure></center>
+<center><figure><img src="figs_Automated/HashMap_Logical_Structure.png" alt="HashMap_Logical_Structure"><figcaption>HashMap Logical Structure</figcaption></figure></center>
 
 
 
@@ -15,7 +15,7 @@ This project is using Spring Boot 3.0 and Java 20.
 This figure (HashMap Logical Structure) represents the data structure that the program will construct in the preprocessing stage. The structure is simple, using the benefits of the HashMaps, O(1) time to search/get or insert an item. As I did in this project, the structure can be multiple layers for folders or subfolders. A better understanding of the structure is the figure (HashMap Layer View). Also, "Time" is a pair of timestamps; the first will be the starting point, and the other will be the finishing time.
 
 
-<center><figure><img src="figs/HashMap_Layer_View.png" alt="HashMap_Layer_View"><figcaption>HashMap Layer View</figcaption></figure></center>
+<center><figure><img src="figs_Automated_Automated/HashMap_Layer_View.png" alt="HashMap_Layer_View"><figcaption>HashMap Layer View</figcaption></figure></center>
 
 ---
 
@@ -24,7 +24,7 @@ This figure (HashMap Logical Structure) represents the data structure that the p
 This project was more towards to the performance of the preporcess and processing stage, hence the time and memory optimisation is quite impressing, as it can be seen in the figure (Memory Optimisation) and in the figure (Time Optimisation). In both figures two datasests were tested, Check and LRW (an well known lip reading dataset form Oxford). Moreover the memory is measured in GB and the time is measured in seconds.
 
 
-<center><figure><img src="figs/Screenshot from 2023-12-10 16-44-56.png" alt="figs/Screenshot from 2023-12-10 16-44-56.png"><figcaption>Memory Optimisation</figcaption></figure></center>
+<center><figure><img src="figs_Automated/Screenshot from 2023-12-10 16-44-56.png" alt="figs_Automated/Screenshot from 2023-12-10 16-44-56.png"><figcaption>Memory Optimisation</figcaption></figure></center>
 
 
 
@@ -36,7 +36,7 @@ In the above figure (Memory Optimisation) can be seen as a significant reduction
 * The "HashMap" size is the data size of the hashmap generated in the "Pre-process" stage. Moreover, The size that is specified in the worst case ( You have 1 dataset, 1 folder, 1 video) since the program is optimised in a way that will load each folder one by one and it will drop it from the memory when it is not used anymore
 
 
-<center><figure><img src="figs/Screenshot from 2023-12-10 19-16-28.png" alt="figs/Screenshot from 2023-12-10 19-16-28.png"><figcaption>Time Optimisation</figcaption></figure></center>
+<center><figure><img src="figs_Automated/Screenshot from 2023-12-10 19-16-28.png" alt="figs_Automated/Screenshot from 2023-12-10 19-16-28.png"><figcaption>Time Optimisation</figcaption></figure></center>
 
 
 
