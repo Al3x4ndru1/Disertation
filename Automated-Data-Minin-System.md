@@ -15,7 +15,7 @@ This project is using Spring Boot 3.0 and Java 20.
 This figure (HashMap Logical Structure) represents the data structure that the program will construct in the preprocessing stage. The structure is simple, using the benefits of the HashMaps, O(1) time to search/get or insert an item. As I did in this project, the structure can be multiple layers for folders or subfolders. A better understanding of the structure is the figure (HashMap Layer View). Also, "Time" is a pair of timestamps; the first will be the starting point, and the other will be the finishing time.
 
 
-<center><figure><img src="figs_Automated_Automated/HashMap_Layer_View.png" alt="HashMap_Layer_View"><figcaption>HashMap Layer View</figcaption></figure></center>
+<center><figure><img src="figs_Automated/HashMap_Logical_Structure.png" alt="HashMap_Layer_View"><figcaption>HashMap Layer View</figcaption></figure></center>
 
 ---
 
