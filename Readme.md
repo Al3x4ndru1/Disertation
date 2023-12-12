@@ -1,4 +1,4 @@
-# Title
+# Dissertation
 
 This is my final year project (dissertation), this will have two parts, the current state and the state that I would like to achive.
 
